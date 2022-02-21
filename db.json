@@ -1,61 +1,14 @@
 {
-  success: true,
-  result: {
-    resource_id: '301000000A-000082-049',
-    limit: 2000,
-    total: 2000,
-    fields: [
-      {
-        type: 'text',
-        id: 'statistic_yyy',
-      },
-      {
-        type: 'text',
-        id: 'district_code',
-      },
-      {
-        type: 'text',
-        id: 'site_id',
-      },
-      {
-        type: 'text',
-        id: 'village',
-      },
-      {
-        type: 'text',
-        id: 'household_ordinary_total',
-      },
-      {
-        type: 'text',
-        id: 'household_business_total',
-      },
-      {
-        type: 'text',
-        id: 'household_single_total',
-      },
-      {
-        type: 'text',
-        id: 'household_ordinary_m',
-      },
-      {
-        type: 'text',
-        id: 'household_business_m',
-      },
-      {
-        type: 'text',
-        id: 'household_single_m',
-      },
-      {
-        type: 'text',
-        id: 'household_ordinary_f',
-      },
-      {
-        type: 'text',
-        id: 'household_business_f',
-      },
-      {
-        type: 'text',
-        id: 'household_single_f',
-      },
-    ], 
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
