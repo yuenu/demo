@@ -7,5 +7,67 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
-  ]
+  ],
+  "records": [
+       {
+        statistic_yyy: '110',
+        district_code: '63000040037',
+        site_id: '臺北市中山區',
+        village: '埤頭里',
+        household_ordinary_total: '772',
+        household_business_total: '0',
+        household_single_total: '731',
+        household_ordinary_m: '1170',
+        household_business_m: '0',
+        household_single_m: '325',
+        household_ordinary_f: '1229',
+        household_business_f: '0',
+        household_single_f: '406',
+      },
+      {
+        statistic_yyy: '110',
+        district_code: '63000040038',
+        site_id: '臺北市中山區',
+        village: '朱崙里',
+        household_ordinary_total: '704',
+        household_business_total: '1',
+        household_single_total: '762',
+        household_ordinary_m: '1011',
+        household_business_m: '1',
+        household_single_m: '323',
+        household_ordinary_f: '1144',
+        household_business_f: '0',
+        household_single_f: '439',
+      },
+      {
+        statistic_yyy: '110',
+        district_code: '63000040039',
+        site_id: '臺北市中山區',
+        village: '力行里',
+        household_ordinary_total: '1449',
+        household_business_total: '0',
+        household_single_total: '1276',
+        household_ordinary_m: '2186',
+        household_business_m: '0',
+        household_single_m: '552',
+        household_ordinary_f: '2460',
+        household_business_f: '0',
+        household_single_f: '724',
+      },
+      {
+        statistic_yyy: '110',
+        district_code: '63000040040',
+        site_id: '臺北市中山區',
+        village: '復華里',
+        household_ordinary_total: '1123',
+        household_business_total: '0',
+        household_single_total: '1033',
+        household_ordinary_m: '1660',
+        household_business_m: '0',
+        household_single_m: '419',
+        household_ordinary_f: '1904',
+        household_business_f: '0',
+        household_single_f: '614'
+      }
+    ]
 }
